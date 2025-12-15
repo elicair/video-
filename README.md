@@ -1,5 +1,4 @@
 # video-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -8,7 +7,7 @@
 <link rel="stylesheet" href="body.css" />
 </head>
 <body>
-<h1>My Tutorial</h1>
+<h1>video class</h1>
   
 <div class="tutorial-section">
 <div class="image-container">
