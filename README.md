@@ -5,8 +5,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Multi-Image Tutorial</title>
-<!-- Link to external stylesheet -->
-<link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="body.css" />
 </head>
 <body>
 <h1>My Tutorial</h1>
