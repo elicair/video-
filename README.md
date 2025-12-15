@@ -13,7 +13,7 @@
 <!-- Step 1 -->
 <div class="tutorial-section">
 <div class="image-container">
-<img src="images/step1.png" alt="Step 1 Image" />
+<img src="Screenshot 2025-12-15 11.41.24 AM.png" alt="Step 1 Image" />
 </div>
 <div class="caption">Step 1: Explanation of the first step.</div>
 </div>
@@ -21,7 +21,7 @@
 <!-- Step 2 -->
 <div class="tutorial-section">
 <div class="image-container">
-<img src="images/step2.png" alt="Step 2 Image" />
+<img src="Screenshot 2025-12-15 11.45.58 AM.png" alt="Step 2 Image" />
 </div>
 <div class="caption">Step 2: Explanation of the second step.</div>
 </div>
@@ -29,7 +29,7 @@
 <!-- Step 3 -->
 <div class="tutorial-section">
 <div class="image-container">
-<img src="images/step3.png" alt="Step 3 Image" />
+<img src="Screenshot 2025-12-15 11.45.27 AM.png" alt="Step 3 Image" />
 </div>
 <div class="caption">Step 3: Explanation of the third step.</div>
 </div>
