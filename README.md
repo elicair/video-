@@ -37,8 +37,7 @@
 <!-- Embedded Video at the End -->
 <div class="video-container">
 <video controls>
-<source src="videos/tutorial.mp4" type="video/mp4" />
-Your browser does not support the video tag.
+<source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=GD8bImWZtkJNRilX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" />
 </video>
 </div>
 </body>
