@@ -10,7 +10,6 @@
 <h1>video class</h1>
 
 <div class="caption">Step 1: click on the share button at the bottom of the video then click the embed button.</div>
-</div>
 <div class="tutorial-section">
 <div class="image-container">
 <img src="Screenshot 2025-12-15 11.41.24 AM.png" alt="Step 1 Image" />
