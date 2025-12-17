@@ -27,9 +27,4 @@
 <div class="image-container">
 <img src="Screenshot 2025-12-15 11.45.27 AM.png" alt="Step 3 Image" />
 </div>
-  
-<div class="video-container">
-<video controls>
-<source> src="https://youtu.be/xopvkx6CpNs?si=GKrrhu7yl5HBFAa0"
-</video>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=GKrrhu7yl5HBFAa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
