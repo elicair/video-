@@ -8,31 +8,28 @@
 </head>
 <body>
 <h1>video class</h1>
-  
+<div class="caption">Step 1: click on the share button at the bottom of the video then click the embed button.</div>
+</div>
 <div class="tutorial-section">
 <div class="image-container">
 <img src="Screenshot 2025-12-15 11.41.24 AM.png" alt="Step 1 Image" />
 </div>
-<div class="caption">Step 1: click on the share button at the bottom of the video then click the embed button.</div>
-</div>
 
+<div class="caption">Step 2: copy the i fame.</div>
+</div>
 <div class="tutorial-section">
 <div class="image-container">
 <img src="Screenshot 2025-12-15 11.45.58 AM.png" alt="Step 2 Image" />
 </div>
-<div class="caption">Step 2: copy the i fame.</div>
-</div>
-
-<div class="tutorial-section">
+<div class="caption">Step 3: paste the iframe in a new html block.</div>
+</div><div class="tutorial-section">
 <div class="image-container">
 <img src="Screenshot 2025-12-15 11.45.27 AM.png" alt="Step 3 Image" />
 </div>
-<div class="caption">Step 3: paste the iframe in a new html block.</div>
-</div>
-
+  
 <div class="video-container">
 <video controls>
-<source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=GD8bImWZtkJNRilX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" />
+<source> src="<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=GD8bImWZtkJNRilX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" />
 </video>
 </div>
 </body>
