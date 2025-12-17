@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>video class</h1>
-<div class="caption">Step 1: click on the share button at the bottom of the video then click the embed button.</div>
+<div> class="caption">Step 1: click on the share button at the bottom of the video then click the embed button.</div>
 </div>
 <div class="tutorial-section">
 <div class="image-container">
@@ -29,7 +29,7 @@
   
 <div class="video-container">
 <video controls>
-<source> src="<iframe width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=o_TrRnGm4GizDJ_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<source> src="<iframe> width="560" height="315" src="https://www.youtube.com/embed/xopvkx6CpNs?si=o_TrRnGm4GizDJ_t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 </video>
 </div>
 </body>
